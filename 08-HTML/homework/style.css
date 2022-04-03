@@ -1,27 +1,34 @@
 
 .divClass h1{
-    color: blue;
-}
-.divClass #h1{
-    color: brown;
+    color: red;
 }
 
+
+
 .h1{
-    color: blueviolet;
+    color: green;
 }
+
+
 
 #thirdDiv{
     width: 500px;
     height: 600px;
-    background: red;
+    background: rgb(255, 0, 0);
     padding: 50px;
-    border: 4px solid orange;
+    border: 6px solid orange;
+    
 }
 
 img{
-    width:400px
+    width: 400px;
+
 }
+
 #spanId{
     font-size: 18px;
     margin: 50px;
 }
+
+
+    
