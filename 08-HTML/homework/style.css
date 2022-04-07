@@ -1,15 +1,26 @@
 
 .divClass h1{
     color: red;
+    font-size: 50px;
+
 }
 
+.divClass h3{
+    color:aliceblue;
+    font-size: 40px;
+}
 
-
+.divClass h4{
+    color: aliceblue;
+    font-size: 40px;
+}
 .h1{
     color: green;
 }
 
-
+.divClass a{
+    font-size: 25px;
+}
 
 #thirdDiv{
     width: 500px;
@@ -26,9 +37,14 @@ img{
 }
 
 #spanId{
-    font-size: 18px;
+    font-size: 25px;
     margin: 50px;
+
 }
 
+body{
+    background: url(img/fondo16.jpg) no-repeat;
+    background-size: cover;
+}
 
     
