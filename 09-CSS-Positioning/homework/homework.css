@@ -59,6 +59,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 }
 
 #ejercicioSiete{
+    
     display: flex;
     flex-direction: column-reverse;
     
